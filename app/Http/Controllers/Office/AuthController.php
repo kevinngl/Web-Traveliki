@@ -35,7 +35,7 @@ class AuthController extends Controller
         //         'message' => 'Maaf, sepertinya ada kesalahan, silahkan coba lagi.',
         //     ]);
         // }
-        return redirect()->route('home');
+        return redirect()->route('dashboard');
     }
     public function do_register(Request $request)
     {

@@ -204,7 +204,7 @@
                                                 <form id="form_create_users">
                                                     <!--begin::Scroll-->
                                                     <div class="d-flex flex-column scroll-y me-n7 pe-7" id="ModalCreateUsers_scroll" data-kt-scroll="true" data-kt-scroll-activate="{default: false, lg: true}" data-kt-scroll-max-height="auto" data-kt-scroll-dependencies="#ModalCreateUsers_header" data-kt-scroll-wrappers="#ModalCreateUsers_scroll" data-kt-scroll-offset="300px">
-                                                        <div class="fv-row mb-7">
+                                                        {{-- <div class="fv-row mb-7">
                                                             <!--begin::Label-->
                                                             <label class="d-block fw-bold fs-6 mb-5">Foto Pesawat</label>
                                                             <!--end::Label-->
@@ -237,14 +237,54 @@
                                                             <!--begin::Hint-->
                                                             <div class="form-text">Allowed file types: png, jpg, jpeg.</div>
                                                             <!--end::Hint-->
-                                                        </div>
+                                                        </div> --}}
                                                         <!--begin::Input group-->
                                                         <div class="fv-row mb-7">
                                                             <!--begin::Label-->
                                                             <label for="nama_users" class="required fw-bold fs-6 mb-2">Nama</label>
                                                             <!--end::Label-->
                                                             <!--begin::Input-->
-                                                            <input type="text" id="nama_users" name="nama" class="form-control form-control-solid mb-3 mb-lg-0" placeholder="Nama Lengkap" />
+                                                            <input type="text" id="nama_users" name="nama" class="form-control form-control-solid mb-3 mb-lg-0" placeholder="Fill your data here" />
+                                                            <!--end::Input-->
+                                                        </div>
+                                                        <!--end::Input group-->
+                                                        <!--begin::Input group-->
+                                                        <div class="fv-row mb-7">
+                                                            <!--begin::Label-->
+                                                            <label for="nama_users" class="required fw-bold fs-6 mb-2">Kode</label>
+                                                            <!--end::Label-->
+                                                            <!--begin::Input-->
+                                                            <input type="text" id="nama_users" name="nama" class="form-control form-control-solid mb-3 mb-lg-0" placeholder="Fill your data here" />
+                                                            <!--end::Input-->
+                                                        </div>
+                                                        <!--end::Input group-->
+                                                        <!--begin::Input group-->
+                                                        <div class="fv-row mb-7">
+                                                            <!--begin::Label-->
+                                                            <label for="nama_users" class="required fw-bold fs-6 mb-2">Kapasitas</label>
+                                                            <!--end::Label-->
+                                                            <!--begin::Input-->
+                                                            <input type="text" id="nama_users" name="nama" class="form-control form-control-solid mb-3 mb-lg-0" placeholder="Fill your data here" />
+                                                            <!--end::Input-->
+                                                        </div>
+                                                        <!--end::Input group-->
+                                                        <!--begin::Input group-->
+                                                        <div class="fv-row mb-7">
+                                                            <!--begin::Label-->
+                                                            <label for="nama_users" class="required fw-bold fs-6 mb-2">Kelas</label>
+                                                            <!--end::Label-->
+                                                            <!--begin::Input-->
+                                                            <input type="text" id="nama_users" name="nama" class="form-control form-control-solid mb-3 mb-lg-0" placeholder="Fill your data here" />
+                                                            <!--end::Input-->
+                                                        </div>
+                                                        <!--end::Input group-->
+                                                        <!--begin::Input group-->
+                                                        <div class="fv-row mb-7">
+                                                            <!--begin::Label-->
+                                                            <label for="nama_users" class="required fw-bold fs-6 mb-2">Keterangan</label>
+                                                            <!--end::Label-->
+                                                            <!--begin::Input-->
+                                                            <input type="text" id="nama_users" name="nama" class="form-control form-control-solid mb-3 mb-lg-0" placeholder="Fill your data here" />
                                                             <!--end::Input-->
                                                         </div>
                                                         <!--end::Input group-->
