@@ -30,6 +30,7 @@ return array(
     'App\\Providers\\RouteServiceProvider' => $baseDir . '/app/Providers/RouteServiceProvider.php',
     'App\\View\\Components\\AuthLayout' => $baseDir . '/app/View/Components/AuthLayout.php',
     'App\\View\\Components\\OfficeLayout' => $baseDir . '/app/View/Components/OfficeLayout.php',
+    'App\\View\\Components\\WebLayout' => $baseDir . '/app/View/Components/WebLayout.php',
     'Attribute' => $vendorDir . '/symfony/polyfill-php80/Resources/stubs/Attribute.php',
     'Brick\\Math\\BigDecimal' => $vendorDir . '/brick/math/src/BigDecimal.php',
     'Brick\\Math\\BigInteger' => $vendorDir . '/brick/math/src/BigInteger.php',

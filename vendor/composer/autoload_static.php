@@ -529,6 +529,7 @@ class ComposerStaticInit9bdec68f6bd8b4867635819baedab0c2
         'App\\Providers\\RouteServiceProvider' => __DIR__ . '/../..' . '/app/Providers/RouteServiceProvider.php',
         'App\\View\\Components\\AuthLayout' => __DIR__ . '/../..' . '/app/View/Components/AuthLayout.php',
         'App\\View\\Components\\OfficeLayout' => __DIR__ . '/../..' . '/app/View/Components/OfficeLayout.php',
+        'App\\View\\Components\\WebLayout' => __DIR__ . '/../..' . '/app/View/Components/WebLayout.php',
         'Attribute' => __DIR__ . '/..' . '/symfony/polyfill-php80/Resources/stubs/Attribute.php',
         'Brick\\Math\\BigDecimal' => __DIR__ . '/..' . '/brick/math/src/BigDecimal.php',
         'Brick\\Math\\BigInteger' => __DIR__ . '/..' . '/brick/math/src/BigInteger.php',

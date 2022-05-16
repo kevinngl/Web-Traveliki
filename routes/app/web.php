@@ -7,7 +7,7 @@ use App\Http\Controllers\Web\HomeController;
 Route::get('signin',[AuthController::class, 'index'])->name('signin');
 Route::get('signup',[AuthController::class, 'register'])->name('signup');
 Route::get('login',[AuthController::class, 'do_login'])->name('login');
-Route::get('home',[HomeController::class, 'index'])->name('home');
+Route::get('/',[HomeController::class, 'index'])->name('home');
 Route::get('pesawat',[HomeController::class, 'pesawat'])->name('pesawat');
 Route::get('destinasi',[HomeController::class, 'destinasi'])->name('destinasi');
 Route::get('hotel',[HomeController::class, 'hotel'])->name('hotel');

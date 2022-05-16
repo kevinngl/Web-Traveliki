@@ -92,7 +92,7 @@
                                             <rect fill="#000000" opacity="0.5" transform="translate(12.000000, 12.000000) rotate(-270.000000) translate(-12.000000, -12.000000)" x="4" y="11" width="16" height="2" rx="1" />
                                         </svg>
                                     </span>
-                                    <!--end::Svg Icon-->Add User</button>
+                                    <!--end::Svg Icon-->Add Tiket</button>
                                     <!--end::Add user-->
                                 </div>
                                 <!--end::Toolbar-->
@@ -180,7 +180,7 @@
                                             <!--begin::Modal header-->
                                             <div class="modal-header" id="ModalCreateUsers_header">
                                                 <!--begin::Modal title-->
-                                                <h2 class="fw-bolder">Add User</h2>
+                                                <h2 class="fw-bolder">Add Tiket</h2>
                                                 <!--end::Modal title-->
                                                 <!--begin::Close-->
                                                 <div class="btn btn-icon btn-sm btn-active-icon-primary" data-kt-users-modal-action="close">
@@ -206,7 +206,7 @@
                                                     <div class="d-flex flex-column scroll-y me-n7 pe-7" id="ModalCreateUsers_scroll" data-kt-scroll="true" data-kt-scroll-activate="{default: false, lg: true}" data-kt-scroll-max-height="auto" data-kt-scroll-dependencies="#ModalCreateUsers_header" data-kt-scroll-wrappers="#ModalCreateUsers_scroll" data-kt-scroll-offset="300px">
                                                         <div class="fv-row mb-7">
                                                             <!--begin::Label-->
-                                                            <label class="d-block fw-bold fs-6 mb-5">Foto Profil</label>
+                                                            <label class="d-block fw-bold fs-6 mb-5">Foto Tiket</label>
                                                             <!--end::Label-->
                                                             <!--begin::Image input-->
                                                             <div class="image-input image-input-outline" data-kt-image-input="true" style="background-image: url(assets/media/avatars/blank.png)">
@@ -248,107 +248,6 @@
                                                             <!--end::Input-->
                                                         </div>
                                                         <!--end::Input group-->
-                                                        <!--begin::Input group-->
-                                                        <div class="fv-row mb-7">
-                                                            <!--begin::Label-->
-                                                            <label for="email_users" class="required fw-bold fs-6 mb-2">Email</label>
-                                                            <!--end::Label-->
-                                                            <!--begin::Input-->
-                                                            <input type="email" id="email_users" name="email" class="form-control form-control-solid mb-3 mb-lg-0" placeholder="Email" />
-                                                            <!--end::Input-->
-                                                        </div>
-                                                        <!--end::Input group-->
-                                                        <!--begin::Input group-->
-                                                        <div class="fv-row mb-7">
-                                                            <!--begin::Label-->
-                                                            <label for="nomor_hp_users" class="required fw-bold fs-6 mb-2">Nomor Hp</label>
-                                                            <!--end::Label-->
-                                                            <!--begin::Input-->
-                                                            <input type="text" id="nomor_hp_users" name="no_hp" class="form-control form-control-solid mb-3 mb-lg-0" placeholder="Nomor Hp" />
-                                                            <!--end::Input-->
-                                                        </div>
-                                                        <!--end::Input group-->
-                                                        <!--begin::Input group-->
-                                                        <div class="fv-row mb-7">
-                                                            <!--begin::Label-->
-                                                            <label for="jenjang_users" class="required fw-bold fs-6 mb-2">Jenjang</label>
-                                                            <!--end::Label-->
-                                                            <!--begin::Input-->
-                                                            <input type="text" id="jenjang_users" name="jenjang" class="form-control form-control-solid mb-3 mb-lg-0" placeholder="Jenjang" />
-                                                            <!--end::Input-->
-                                                        </div>
-                                                        <!--begin::Input group-->
-                                                        <div class="fv-row mb-7">
-                                                            <!--begin::Label-->
-                                                            <label for="password_users" class="required fw-bold fs-6 mb-2">Password</label>
-                                                            <!--end::Label-->
-                                                            <!--begin::Input-->
-                                                            <input type="password" id="password_users" name="password" class="form-control form-control-solid mb-3 mb-lg-0" />
-                                                            <!--end::Input-->
-                                                        </div>
-                                                        <!--end::Input group-->
-                                                        <!--begin::Input group-->
-                                                        <div class="mb-7">
-                                                            <!--begin::Label-->
-                                                            <label class="required fw-bold fs-6 mb-5">Role</label>
-                                                            <!--end::Label-->
-                                                            <!--begin::Roles-->
-                                                            <!--begin::Input row-->
-                                                            <div class="d-flex fv-row">
-                                                                <!--begin::Radio-->
-                                                                <div class="form-check form-check-custom form-check-solid">
-                                                                    <!--begin::Input-->
-                                                                    <input class="form-check-input me-3" name="role" type="radio" value="Admin" id="role_users_1" />
-                                                                    <!--end::Input-->
-                                                                    <!--begin::Label-->
-                                                                    <label class="form-check-label" for="role_users_1">
-                                                                        <div class="fw-bolder text-gray-800">Admin</div>
-                                                                        <div class="text-gray-600">Admin memiliki akses terhadap semua fitur yang ada</div>
-                                                                    </label>
-                                                                    <!--end::Label-->
-                                                                </div>
-                                                                <!--end::Radio-->
-                                                            </div>
-                                                            <!--end::Input row-->
-                                                            <div class='separator separator-dashed my-5'></div>
-                                                            <!--begin::Input row-->
-                                                            <div class="d-flex fv-row">
-                                                                <!--begin::Radio-->
-                                                                <div class="form-check form-check-custom form-check-solid">
-                                                                    <!--begin::Input-->
-                                                                    <input class="form-check-input me-3" name="role" type="radio" value="Dosen" id="role_users_2" />
-                                                                    <!--end::Input-->
-                                                                    <!--begin::Label-->
-                                                                    <label class="form-check-label" for="role_users_2">
-                                                                        <div class="fw-bolder text-gray-800">Dosen</div>
-                                                                        <div class="text-gray-600">Dosen memiliki akses terhadap semua fitur kecuali fitur User management</div>
-                                                                    </label>
-                                                                    <!--end::Label-->
-                                                                </div>
-                                                                <!--end::Radio-->
-                                                            </div>
-                                                            <!--end::Input row-->
-                                                            <div class='separator separator-dashed my-5'></div>
-                                                            <!--begin::Input row-->
-                                                            <div class="d-flex fv-row">
-                                                                <!--begin::Radio-->
-                                                                <div class="form-check form-check-custom form-check-solid">
-                                                                    <!--begin::Input-->
-                                                                    <input class="form-check-input me-3" name="role" type="radio" value="Siswa" id="role_users_3" />
-                                                                    <!--end::Input-->
-                                                                    <!--begin::Label-->
-                                                                    <label class="form-check-label" for="role_users_3">
-                                                                        <div class="fw-bolder text-gray-800">Siswa</div>
-                                                                        <div class="text-gray-600">Siswa Tidak dapat mengakses Admin page</div>
-                                                                    </label>
-                                                                    <!--end::Label-->
-                                                                </div>
-                                                                <!--end::Radio-->
-                                                            </div>
-                                                            <!--end::Input row-->
-                                                            <!--end::Roles-->
-                                                        </div>
-                                                        <!--end::Input group-->
                                                     </div>
                                                     <!--end::Scroll-->
                                                     <!--begin::Actions-->
@@ -384,7 +283,7 @@
     <div id="content_input"></div>
     @section('custom_js')
         <script>
-            load_list(1);
+            // load_list(1);
         </script>
     @endsection
 </x-office-layout>
