@@ -1000,7 +1000,7 @@ in den tijd dat 't hun nog niet zoo goed ging.
 
 Zoo echt gezellig kon je dan nog eens praten. Hè jà, en de
 Dapperstraat met twee rijen karren, groenten en visch en kaas en
-kopjes en schoteltjes, met olielampen, die walmden en rustig wit
+kopjes en scpesawattjes, met olielampen, die walmden en rustig wit
 licht in witte ballonnetjes van eigengemaakt gas. En overal herrie
 en geraas. Toen ze al lang deftig waren geworden, ging ze nog wel
 's Zaterdagsavonds gerookte aaltjes koopen aan de kar met al die

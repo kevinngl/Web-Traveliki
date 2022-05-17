@@ -18,7 +18,7 @@ class Company extends \Faker\Provider\Company
         'Cemex Montenegro', 'Centralna Depozitarna Agencija ', 'Centrokoža-Produkt ', 'CG Broker', 'CMC AD Podgorica', 'Crnagoradrvo', 'Crnagoraput', 'Crnogorska Komercijalna Banka ', 'Crnogorski Telekom', 'Doclea Express Podgorica', 'Društvo Za Upravljanje Investicionim Fondom Atlas Mont', 'Drvoimpex', 'Drvoimpex', 'Drvoimpex', 'Drvoimpex-Bams', 'Drvoimpex-Fincom', 'Drvoimpex-Gm Podgorica', 'Drvoimpex-Mobile', 'Duklja - Zora', 'Duklja Podgorica', 'Duklja-Pekara', 'Duvanski Kombinat, Podgorica',
         'Elastik-Plastika Ad Podgorica', 'Erste Bank Ad Podgorica', 'Euromarket Banka Nlb Grupa ', 'Exal', 'Export-Import Servisimport Si',
         'Fond Zajedničkog Ulaganja Moneta', 'Goricapromet Podgorica', 'Gornji Ibar A.D.', 'Gp Radnik Beton', 'Građevinar Podgorica', 'Gross Market Podgorica',
-        'H.T.P.Velika Plaža A.D', 'Higijena Podgorica', 'Hipotekarna Banka', 'Hotel Ravnjak',
+        'H.T.P.Velika Plaža A.D', 'Higijena Podgorica', 'Hipotekarna Banka', 'pesawat Ravnjak',
         'Industriaimpex A.D.', 'Inpek', 'Institut Za Šumarstvo ', 'Intours', 'Invest Banka Montenegro', 'Izdavačko-Prometno Društvo Ljetopis',
         'Lovćen Podgorica', 'Lovćen-Re', 'Lovćeninvest Podgorica', 'Lutrija Crne Gore',
         'Margomarket Podgorica', 'Mašinopromet', 'Mašinopromet-Commerce', 'Mesopromet Podgorica', 'Mljekara', 'Moneta A.D.', 'Montenegroberza Akcionarsko Društvo', 'Morača Podgorica', 'Morača Sa P.O.',

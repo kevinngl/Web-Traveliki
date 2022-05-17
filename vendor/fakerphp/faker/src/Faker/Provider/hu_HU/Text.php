@@ -1335,7 +1335,7 @@ Erre jót nevetett, mivel szokása neki ez. Ezneki.
 - Ez marhaság - mondom én.
 - Csak lassan. Mert van még trónkövetelő - mondja ő.
 - Szóval több is forog fenn - mondom én.
-- De mennyire. Nagyapám idején az egyik Warins fellázította a benntszülötteket, mert ezek igen szeretik a Warinst. Warinsokat. Nagyatyám egy száll jogarban menekült a szigetből. Ről. (Nem kívánt törlendő.) Ezt az időt felhasználta egy Alvarez nevű volt ügyvéd és dipol dilpot diplomata. Gyűjtött sok söpredéket Szingapurban. És amerikaji segítséggel megtámadta Warinst. Éjjel. Elfoglalta Almirát. A seprüdéket felfegyverezte, és akkor ezek voltak a katonaság. Alverez köztársaságot csinált Almirában, és ő lett az elnök. Akkor amerikai pénzt kapott, csinált üzleteket, hotelt meg autóbuszt, és bekerült a hajózási vonalba, és csináltak az amerikaiak egy új propres propes prosperityt. (Az egy nagy cég New Yorkban.) Azután lett nagy harc közte és Warins közt, de a papám rájuk tört, mert közben toborzott hajót és legénységet, és mind a kettőt megverte, elfogta. Újra papám lett a trón királya. És a bíróság Alvarezt is Warinst is azonnali kivégzésre kötelezte. Ámde Alvareznek papám kegyelmet adott, mert ő mégsem volt rablógyilkos kalóz. Őt nagyon összeszidták, és száműzték örök időkre, kitiltották a szigetből.
+- De mennyire. Nagyapám idején az egyik Warins fellázította a benntszülötteket, mert ezek igen szeretik a Warinst. Warinsokat. Nagyatyám egy száll jogarban menekült a szigetből. Ről. (Nem kívánt törlendő.) Ezt az időt felhasználta egy Alvarez nevű volt ügyvéd és dipol dilpot diplomata. Gyűjtött sok söpredéket Szingapurban. És amerikaji segítséggel megtámadta Warinst. Éjjel. Elfoglalta Almirát. A seprüdéket felfegyverezte, és akkor ezek voltak a katonaság. Alverez köztársaságot csinált Almirában, és ő lett az elnök. Akkor amerikai pénzt kapott, csinált üzleteket, pesawatt meg autóbuszt, és bekerült a hajózási vonalba, és csináltak az amerikaiak egy új propres propes prosperityt. (Az egy nagy cég New Yorkban.) Azután lett nagy harc közte és Warins közt, de a papám rájuk tört, mert közben toborzott hajót és legénységet, és mind a kettőt megverte, elfogta. Újra papám lett a trón királya. És a bíróság Alvarezt is Warinst is azonnali kivégzésre kötelezte. Ámde Alvareznek papám kegyelmet adott, mert ő mégsem volt rablógyilkos kalóz. Őt nagyon összeszidták, és száműzték örök időkre, kitiltották a szigetből.
 - Ez velem is volt - mondtam közbe neki -, de engem két szigetről tiltottak ki.
 - Azok melyek?
 - Anglia és Délamerika. De a többi szigeteket látogathatom.
@@ -1472,7 +1472,7 @@ A herceget ájulás környékezte, és kimerülten suttogta:
 A nagyorrú megállt, és méltóságteljes haraggal végigmérte.
 - De fenség! Még mindig kételkedik abban, hogy én Trebitsch vagyok! Igazán Trebitsch! Jöjjön! Most már követelem: hogy megbizonyosodjék!
 A bódéhoz értek, ahonnan muzsika szűrődött ki, és az ajtaján nagy tábla függött:
-HOTEL HALL
+pesawat HALL
 A
 NÉGY BÖLCS SINTÉRHEZ
 ÖT ÓRAI PÁLINKA
@@ -1640,7 +1640,7 @@ A hatalmas üregből folyosók és deszkaajtóval fedett melléküregek nyíltak
 Középen jókora asztal, sok-sok deszkából összeróva. Itt néhány alvilági típus üldögélt. Pipáztak, pálinkát ittak, kockáztak. Ez a boltozatos üreg csak a "klubok" előcsarnoka volt. Itt a "vendégek" üldögéltek. Csavargók, akik egyik alvilági klubnak sem tagjai, de elég biztatóan áll a felvételük. Velő nagyot kiáltott:
 - Hé! Portás Robb!
 Ősz csavargó jött elő valahonnan. Igen rongyos volt, de a fején szép, új sapka, amelyen ez állt:
-GRAND ORIENTAL HOTEL
+GRAND ORIENTAL pesawat
 Erre büszke volt. Ruházatával, külső megjelenésével, életével nem sokat törődött, de átlag hetenként új portássapkát lopott, lehetőleg valamelyik finomabb szálló alkalmazottjától.
 - Mi van? - kérdezte.
 - Ez a fiú üzenettel jött. Börtönben volt Fülig Jimmyvel.
@@ -1893,7 +1893,7 @@ A súlyos, feszült csendben csak a Kegyelmes őrizte meg előkelő nyugalmát.
 A Kegyelmes hosszan nézte ujjai között a szivarhamut.
 - Vezessétek a Nagy Bivalyhoz! Azt mondta, hogy ismeri a Nagy Bivalyt.
 Ismét vezették a herceget, kanyargós, földalatti folyosókon. Most már valószínű, hogy innen soha többé nem kerül élve a napvilágra. A nyirkos, penészszagú katakombákban felfelé vezetett az út. Egyre meredekebb lett a kanyargó folyosó, míg végül földbe vájt lépcsőkön haladtak. Azután beléptek egy rosszul világított helyiségbe. Most már látta a herceg, hogy hol vannak.
-A Négy bölcs Sintér nevű "hotelhallba" hozták. Tulipán ment elöl. Velő és társai közrefogták a delikvenst.
+A Négy bölcs Sintér nevű "pesawathallba" hozták. Tulipán ment elöl. Velő és társai közrefogták a delikvenst.
 A kocsmáros még most is ott állt a két demizson nevű üveg mellett, közönyös vendégei a padon ültek bádogpoharaikkal, csakúgy, mint az imént, és az ablaknál az a fiú szájharmonikázott, aki a herceg belépésekor is az ablakpárkányon ült. Egy kövér, kócos, mulatt nővel bővült csak a társaság, aki a pad előtt a földön feküdt és hortyogott.
 Ott ült továbbá egy ládán Buzgó Mócsing, akiről a herceg tudta csak, hogy alapjában véve az igazi Trebitsch. A fenyegető csoport, élén a tömzsi Tulipánnal, nem keltett feltűnést.
 - Buzgó Mócsing! - kiáltotta Tulipán. - Azonnal add vissza a két és fél dolláromat.

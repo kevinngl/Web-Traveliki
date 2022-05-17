@@ -3,13 +3,17 @@
 namespace App\Http\Controllers\Office;
 use App\Http\Controllers\Controller;
 
+use App\Models\UserCredential;
 use Illuminate\Http\Request;
 use Illuminate\Support\Facades\Auth;
 use Illuminate\Support\Facades\Mail;
 use Illuminate\Support\Facades\Hash;
+use Illuminate\Support\Facades\Http;
+use Illuminate\Support\Facades\Session;
 use Illuminate\Support\Facades\Validator;
 use App\Models\User;
-use Exception;
+use Illuminate\Http\Client\ConnectionException;
+
 
 class AuthController extends Controller
 {
@@ -21,31 +25,45 @@ class AuthController extends Controller
     {
         return view('page.office.auth.main');
     }
-    public function do_login()
+    
+    public function do_login(Request $request)
     {
-        // $datas=$request->only('email', 'password');
-        // if(Auth::attempt($datas)){
-        //     return response()->json([
-        //         'alert' => 'success',
-        //         'message' => 'Selamat datang '. Auth::guard('office')->user()->nama,
-        //     ]);
-        // }else{
-        //     return response()->json([
-        //         'alert' => 'error',
-        //         'message' => 'Maaf, sepertinya ada kesalahan, silahkan coba lagi.',
-        //     ]);
-        // }
-        return redirect()->route('dashboard');
-    }
-    public function do_register(Request $request)
-    {
-        //
+        try{
+            $email = $request->email;
+            $password = $request->password;
+            $response = Http::post('http://192.168.137.1:8080/api/user/login', [
+                'email' => $email,
+                'password' => $password,
+            ]);
+
+            $responseDecoded = json_decode($response->body());
+
+            if ($responseDecoded->status == true) {
+                $userCredential = new UserCredential($responseDecoded->data);
+                UserCredential::login($userCredential);
+                return response()->json([
+                    'alert' => 'success',
+                    'message' => 'Selamat datang di Traveliki',
+                    'callback' => 'reload',
+                ]);
+            }else{
+                return response()->json([
+                    'alert' => 'error',
+                    'message' => 'Maaf, sepertinya ada beberapa kesalahan yang terdeteksi, silakan coba lagi.',
+                ]);
+            }
+        }
+        catch(ConnectionException $exception){
+            return response()->json([
+                'alert' => 'error',
+                'message' => 'Maaf, Service User Sedang Down.',
+            ]);
+        }
     }
     public function do_logout()
     {
-        $employee = Auth::guard('office')->user();
-        Auth::logout($employee);
-        return redirect()->route('auth');
+        UserCredential::logout();
+        return redirect()->route('/home');
     }
 }
 

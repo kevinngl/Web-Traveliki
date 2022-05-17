@@ -32,8 +32,8 @@ function auth(button,form,uri,title)
                 setTimeout(function () {
                     $(button).prop("disabled", false);
                     $(button).html(title);
-                    if(title == "Login"){
-                        location.reload();
+                    if(response.route){
+                        location.href = response.route;
                     }else{
                         container.classList.remove("sign-up-mode");
                         $("#username_login").focus();

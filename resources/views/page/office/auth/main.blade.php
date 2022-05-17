@@ -13,7 +13,7 @@
                 <!--begin::Wrapper-->
                 <div class="w-lg-500px bg-body rounded shadow-sm p-10 p-lg-15 mx-auto">
                     <!--begin::Form-->  
-                    <form class="form w-100" novalidate="novalidate" id="form_login" action="{{route('login')}}" method="post">
+                    <form class="form w-100" novalidate="novalidate" id="form_login">
                         <!--begin::Heading-->
                         <div class="text-center mb-10">
                             <!--begin::Title-->
@@ -51,10 +51,9 @@
                         <!--begin::Actions-->
                         <div class="text-center">
                             <!--begin::Submit button-->
-                            {{-- <button id="tombol_login" type="submit" class="btn btn-lg btn-primary w-100 mb-5" data-login="3">
+                            <button id="tombol_login" onclick="auth('#tombol_login','#form_login','login','Login');" type="submit" class="btn btn-lg btn-primary w-100 mb-5" data-login="3">
                                 Masuk
-                            </button> --}}
-                            <a href="{{route('login')}}" class="btn btn-lg btn-primary w-100 mb-5">Masuk</a>
+                            </button>
                             <!--end::Submit button-->
                         </div>
                         <!--end::Actions-->

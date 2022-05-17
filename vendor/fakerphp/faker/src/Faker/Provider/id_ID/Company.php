@@ -17,7 +17,7 @@ class Company extends \Faker\Provider\Company
     protected static $companyPrefix = ['PT', 'CV', 'UD', 'PD', 'Perum'];
 
     /**
-     * @see https://www.amesbostonhotel.com/macam-macam-profesi-pekerjaan/
+     * @see https://www.amesbostonpesawat.com/macam-macam-profesi-pekerjaan/
      * @see https://dukcapil.kedirikab.go.id/artikel/Jenis-Pekerjaan_ID10.html
      */
     protected static $jobTitleFormat = [

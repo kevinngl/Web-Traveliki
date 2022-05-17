@@ -6,39 +6,54 @@ use App\Http\Controllers\Controller;
 use Illuminate\Http\Request;
 use Illuminate\Support\Facades\Auth;
 use App\Models\User;
+use App\Models\Product;
+use App\Models\UserCredential;
+use Illuminate\Support\Facades\Hash;
+use Illuminate\Support\Facades\Http;
+use Illuminate\Http\Client\ConnectionException;
 
 class HomeController extends Controller
 {
-    public function index(Request $request)
+    public function index()
     {
-        return view('page.web.home.main');
+        try{
+            $product = Http::get("http://192.168.137.1:8081/api/product");
+            return view("page.web.home.main", [
+                "product" => json_decode($product)
+            ]);
+        }
+        catch(ConnectionException $exception){
+            return view("page.web.home.main", [
+                "product" => null
+            ]);
+        }
+        // return $product;
     }
-    public function pesawat(Request $request)
-    {
-        return view('page.web.pesawat.main');
+    public function detail($id){
+        try{
+            $product = Http::get("http://192.168.137.1:8081/api/product/".$id);
+
+            // return $product->json('data');
+            return view("page.web.home.detail", [
+                "product" => json_decode($product)
+            ]);
+        }
+        catch(ConnectionException $exception){
+            return redirect()->route('/');
+        }
     }
-    public function hotel(Request $request)
-    {
-        return view('page.web.hotel.main');
+    public function detail_order($id){
+        try{
+            $product = Http::get("http://192.168.137.1:8081/api/product/".$id);
+
+            // return $product->json('data');
+            return view("page.web.order.main", [
+                "product" => json_decode($product)
+            ]);
+        }
+        catch(ConnectionException $exception){
+            return redirect()->route('/');
+        }
     }
-    public function destinasi(Request $request)
-    {
-        return view('page.web.destinasi.main');
-    }
-    public function tiket(Request $request)
-    {
-        return view('page.web.tiket.main');
-    }
-    public function detail(Request $request)
-    {
-        return view('page.web.hotel.detail');
-    }
-    public function order(Request $request)
-    {
-        return view('page.web.order.main');
-    }
-    // public function show(Request $request, User $user)
-    // {
-    //     return view('page.home.show', compact('user'));
-    // }
+
 }

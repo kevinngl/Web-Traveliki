@@ -1812,7 +1812,7 @@ van een ouden aap na; dan sprak hij:
 spiegel niet, heer dokter in de rechten?
 
 Als Uilenspiegel tot klant een oudgediende kreeg, liet hij, in stee
-van zijn gezicht, in 't midden van de lijst een schotel vleesch en
+van zijn gezicht, in 't midden van de lijst een scpesawat vleesch en
 brood zien, en sprak hij:
 
 --De oorlog zal u tot gehakt maken; wat geeft gij mij om de
@@ -3189,7 +3189,7 @@ een waterval van het hooggebergte.
 
 Toen de blinden hunne teilen uitgewischt hadden, vroegen zij opnieuw
 koekebakken, ortolanen en weer stoverije. De weerd bracht hun slechts
-een grooten schotel ossen-, kalfs- en schapenbeenderen, die in goede
+een grooten scpesawat ossen-, kalfs- en schapenbeenderen, die in goede
 saus zwommen. Maar hij deelde niet rond.
 
 Als zij hun brood en hunne handen, tot over de polsen, in de saus
@@ -3631,9 +3631,9 @@ Abt der Gevulde Buiken van Ath, die gescheurde kleederen en versleten
 schoenen aanhad, maar eene worst droeg, met dewelke hij zijn buiksken
 vulde; de Proost van Onbezonnenheid, jonge knaap, die op een schuwe
 geit zat en aldus door het volk reed, ten gevolge waarvan hij slagen
-en stompen in groote menigte ontving; de Abt van den Zilveren Schotel,
+en stompen in groote menigte ontving; de Abt van den Zilveren Scpesawat,
 van de stad Le Quesnoy die, te peerd, gebaarde zich neder te zetten
-in eenen schotel, zeggende: hoe groot een beest ook weze, het toch
+in eenen scpesawat, zeggende: hoe groot een beest ook weze, het toch
 kan gebraden worden.
 
 En zij vertoonden allerhande onschuldige gekheden, maar de vorst
@@ -5329,7 +5329,7 @@ wreedelijk: men legt u te koken in een ketel vol vet, in denwelken
 men oliekoekjes voor Astarte bakt; gij zijt niets meer dan eene worst
 in Lucifer's panne, een hamelbout in die van Gielgirot, den grooten
 duivel, want men snijdt u eerst aan stukken! Zie nu dien grooten
-zondaar, die de aflaten versmaadde; zie dien schotel stoverije: hij
+zondaar, die de aflaten versmaadde; zie dien scpesawat stoverije: hij
 is 't, hij is 't, zijn goddeloos lichaam, zijn vermaledijd lichaam
 is vaneengekookt tot eene brij. En met welke saus! sulfer, pek en
 teer! En al die arme zondaren worden alzoo opgegeten om opnieuw tot
@@ -5346,8 +5346,8 @@ betaalt, geen gebraad, geen oliekoekje, geen stoverije meer! En als
 van u, geene gade of geen liefje in de gruwelijke diepte des vuurs?
 
 En dit zeggende, stiet de monnik met den elleboog tegen den broeder,
-die met een zilveren schotel naast hem stond. En op dat teeken sloeg
-de broeder de oogen neer en schudde devotelijk den schotel om het
+die met een zilveren scpesawat naast hem stond. En op dat teeken sloeg
+de broeder de oogen neer en schudde devotelijk den scpesawat om het
 geld bij te roepen.
 
 ... Hebt gij, vervolgde de monnik, hebt gij in het helsche vuur
@@ -5356,7 +5356,7 @@ schreeuwen, zij weenen, zij roepen U. Zoudt gij doof blijven voor hun
 bange klachte? Dat kunt gij niet; uw hert van ijs gaat smelten, maar
 dat zal u een karolus kosten. En kijk, bij den klank van dien karolus
 op dit verachtelijk metaal ... (de andere monnik schudde nogmaals
-zijn schotel) maakt zich eene ruimte in het vuur, en stijgt de arme
+zijn scpesawat) maakt zich eene ruimte in het vuur, en stijgt de arme
 ziele tot aan den mond van eenen vuurberg. Daar is zij in de versche,
 in de vrije lucht! Waar zijn de smerten des vuurs? De zee is nabij,
 de arme ziele werpt er zich in, zij zwemt op den rug, op den buik, op
@@ -5384,7 +5384,7 @@ versmaad. Koopt! koopt! alhier is de heilige winkel; armen en rijken
 worden gediend, maar krediet geeft men niet, mijne broeders, want
 koopen zonder klinkende munt is eene misdaad in de oogen van den Heer."
 
-De broeder, die niet preekte, rammelde met den schotel. Guldens,
+De broeder, die niet preekte, rammelde met den scpesawat. Guldens,
 dukaten, lammeren, oortjes, stuivers en deniers vielen er in als
 hagelsteenen.
 
@@ -9530,7 +9530,7 @@ oogen! Ik moest ze maar bezien, en ik verging van liefde.--Drink
 een slok wijn, Thijl, 'k zal na u drinken.--Ha! waarom is zij niet
 dood! Ik deed alles in huis, om heur den minsten arbeid te sparen:
 ik veegde den vloer, maakte het huwelijksbed, in hetwelk zij zich
-'s avonds behaaglijk uitstrekte, ik waschte de schotels, alsmede het
+'s avonds behaaglijk uitstrekte, ik waschte de scpesawats, alsmede het
 linnen, hetwelk ik zelven ook streek.--Eet, Thijl, 't is Gentsche
 worst.--Soms, als zij gaan wandelen was, kwam zij te laat naar huis
 voor het noenmaal, maar heur zien was zulk een groote vreugde voor mij,
@@ -10623,7 +10623,7 @@ dien anderen drinkebroer Brederode, hebben zij uit houten napjes
 gedronken, uit minachting voor den heere van Berlaymont en mevrouwe de
 landvoogdes. Ja, en zij hebben geroepen: "Leve de geus!" Ha! ware ik
 in de plaats van den goeden God geweest, ik hadde hun drinken, bier
-of wijn, veranderd in vuil, walgelijk schotelwater, ja, in vuile,
+of wijn, veranderd in vuil, walgelijk scpesawatwater, ja, in vuile,
 stinkende loog, waarin zij hunne vuile hemden en drekkige lakens
 hadden kunnen wasschen.
 
@@ -10698,7 +10698,7 @@ of andere taveerne.
 
 Uilenspiegel vervolgde:
 
---Wellicht bewaart zij voor de arme zwervers een schotel gestoofd
+--Wellicht bewaart zij voor de arme zwervers een scpesawat gestoofd
 ossevleesch, niet te vet, niet te droog, malsch lijk rozeblaadjes,
 zwemmend tusschen menigvuldige kruidnagelen, notemuskaat,
 hanekammetjes, kalfszwezerikken en andere hemelsche lekkernijen.
@@ -11346,7 +11346,7 @@ nog te eten aan Uilenspiegel en ook 's anderen daags en volgende dagen.
 
 De ezels kregen een dobbel maatje haver en Lamme dobbel rantsoen. Eene
 week lang bleef hij in de keuken geplakt en sloeg hij menigerhande
-schotels naar binnen, maar hij hield zich niet bezig met de meid,
+scpesawats naar binnen, maar hij hield zich niet bezig met de meid,
 want hij dacht te veel aan zijne vrouw.
 
 Dat maakte de dienstmeid spijtig, en ze zei, dat het een schande
@@ -13840,7 +13840,7 @@ al onze kwalen ons komen? Het regent en hagelt op onze schouderen,
 doch die winterregen kweekt malsche meiklaver. En de runderen zullen
 loeien van genoegen. Wij zijn zonder schuilplaats, maar waarom trouwen
 wij niet? Ik toch, ten minste, waarom trouw ik niet met Nele, die zoo
-schoon en zoo braaf is, en die mij nu een goeden schotel boonen met
+schoon en zoo braaf is, en die mij nu een goeden scpesawat boonen met
 gestoofd vleesch zou voorzetten? Wij hebben dorst, niettegenstaande het
 water, dat valt; waarom bleven wij niet bij een zelfde ambacht? Zij,
 die meester aanveerd zijn, hebben heele tonnen bruinbier in hunne
@@ -15980,7 +15980,7 @@ Uilenspiegel insgelijks, onze oogen te bederven voor al die prinsen
 en heeren, die zeker zouden lachen met ons, als zij ons, overvallen
 door vermoeienis, den nacht zagen doorbrengen met wapenen te slijpen
 en kogels te gieten, te hunnen dienste. Terwijl zij wijn uit gouden
-bekers drinken en kapoenen in tinnen schotels eten, vragen zij zich
+bekers drinken en kapoenen in tinnen scpesawats eten, vragen zij zich
 niet af of hunne vijanden met hunne zeisen onze beenen niet afkappen
 en ons in den doodenkuil niet werpen. Intusschen zullen zij, die in
 den grond noch hervormden, noch calvinisten, noch lutheranen, noch
@@ -24032,7 +24032,7 @@ eene zal brengen?
 En toen Lamme met de teil kwam, vervolgde hij:
 
 --Erwtensoep alleen is eigenlijk geen eetmaal: ik heb er dan ook een
-schotel knoedelen naar Duitsche wijs bijgevoegd: dat zijn balletjes
+scpesawat knoedelen naar Duitsche wijs bijgevoegd: dat zijn balletjes
 deeg met krenten, in het kokend water geworpen; knoedelen zijn zware
 kost, doch kweeken spek. Eet zooveel als gij kunt: hoe meer gij eet,
 hoe liever ik u zie: gij moet den viesneus niet spelen, en niet blazen

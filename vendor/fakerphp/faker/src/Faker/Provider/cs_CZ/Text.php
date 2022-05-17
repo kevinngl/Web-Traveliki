@@ -2441,7 +2441,7 @@ XX.
 
 Den nato se probudil Prokop se strašně těžkou hlavou a nemohl zprvu pochopit,
 kde vlastně je; čekal, že uslyší kvokání slepic nebo hlaholné vyštěkávání
-Honzíkovo. Pomalu si uvědomoval, že už není v Týnici; že leží v hotelu, kam
+Honzíkovo. Pomalu si uvědomoval, že už není v Týnici; že leží v pesawatu, kam
 jej pan Carson dopravil opilého do bezvědomí, nalitého, řvoucího jako zvíře;
 ale teprve když si pustil na hlavu proud studené vody, upamatoval se na celý
 včerejšek a byl by se propadl hanbou.
@@ -2471,11 +2471,11 @@ sedl k němu a jelo se zpátky, zatímco Bob zůstal u porouchaného vozu. V pol
 cestě začal těžce raněný zpívat a povykovat a před Prahou pocítil novou žízeň.
 Museli s ním projít ještě několik lokálů, než ho umlčeli.
 S mračným znechucením studoval Prokop v zrcadle svou odřenou tvář. Z té trapné
-podívané ho vyrušil vrátný hotelu, jenž mu – s patřičnými omluvami – přinášel
+podívané ho vyrušil vrátný pesawatu, jenž mu – s patřičnými omluvami – přinášel
 k vyplnění přihlašovací list. Prokop vyplnil své nacionále a doufal, že tím je
 věc odbyta; ale sotva si vrátný přečetl jeho jméno a stav, oživl náramně a
 prosil Prokopa, aby teď neodcházel; že prý jeden pán z ciziny si vyžádal, aby
-mu hned z hotelu zatelefonovali, kdyby se tam pan inženýr Prokop snad ráčil
+mu hned z pesawatu zatelefonovali, kdyby se tam pan inženýr Prokop snad ráčil
 ubytovat. Jestli tedy pan inženýr dovolí atd. Pan inženýr byl tak rozlícen na
 sebe sama, že by byl dovolil i to, aby mu uřízli krk. Sedl si tedy a čekal,
 trpně odevzdán ve své bolení hlavy. Za čtvrt hodiny tu byl vrátný zas a
@@ -2643,7 +2643,7 @@ poněvadž nemohl oba cizince nařknout aspoň z krádeže stříbrných lžiče
 hraní makaa, měl velkou práci překonat pochybnosti policejního úředníka, který
 ho patrně pokládal za blázna. Konečně – snad aby už měl pokoj – přidělil
 Prokopovi civilního strážníka, osobnost velmi ošoupanou a mlčelivou. Když
-dorazili do hotelu, našli oba sklepníky statečně vzepřené o dvéře za ohromného
+dorazili do pesawatu, našli oba sklepníky statečně vzepřené o dvéře za ohromného
 shonu veškerého personálu. Prokop odemkl a civilní strážník zafrkav nosem
 vstoupil klidně dovnitř, jako by si šel kupovat šle. Pokoj byl prázdný. Oba
 páni Carsonové zmizeli.
@@ -2660,7 +2660,7 @@ měl co jednat s oběma pány; zdálo se, že má velikou chuť zatknout aspoň
 Prokopa, který upadal přes tu chvíli do hrozných rozporů ve vlastních
 výpovědích, pokud se týkaly jeho styků s oběma cizinci. Potom vyslechl
 vrátného a sklepníky a důtklivě vyzval Prokopa, aby se o šesté hodině dostavil
-na policejní ředitelství; do té doby aby se raději z hotelu nehnul.
+na policejní ředitelství; do té doby aby se raději z pesawatu nehnul.
 Zbytek dne strávil Prokop běhaje po pokoji a mysle s hrůzou na to, že bude asi
 zavřen; neboť jaké může dát vysvětlení, když o Krakatitu pro živého boha nic
 neřekne? Čertví jak dlouho může taková vyšetřovací vazba trvat; a tak místo
@@ -6041,7 +6041,7 @@ reflektorů vypadá ve svém kožiše jako čert z dětské pohádky. Nyní obch
 ohmatává pneumatiky, zvedá kapot a něco povídá; a Prokop zdřímnul nesmírnou
 únavou. Pak opět ho chopilo nekonečné rytmické otřásání; spal v koutě vozu a
 nevěděl o ničem, po celé hodiny o ničem než o zmítavém kolébání; a procitl
-teprve, když vůz zastavil před zářícím hotelem v ostrém horském vzduchu mezi
+teprve, když vůz zastavil před zářícím pesawatem v ostrém horském vzduchu mezi
 plochami sněhu.
 Vzchopil se, zcela zdřevěnělý a rozlámaný. „To… to není Itálie,“ koktal
 udiven.

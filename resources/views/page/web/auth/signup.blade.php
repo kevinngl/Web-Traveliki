@@ -13,7 +13,7 @@
             <!--begin::Wrapper-->
             <div class="w-lg-600px bg-body rounded shadow-sm p-10 p-lg-15 mx-auto">
                 <!--begin::Form-->
-                <form class="form w-100" novalidate="novalidate" id="kt_sign_up_form">
+                <form class="form w-100" novalidate="novalidate" id="form_register">
                     <!--begin::Heading-->
                     <div class="mb-10 text-center">
                         <!--begin::Title-->
@@ -29,8 +29,26 @@
                     <!--end::Action-->  
                     <!--begin::Input group-->
                     <div class="fv-row mb-7">
+                        <label class="form-label fw-bolder text-dark fs-6">Nama</label>
+                        <input class="form-control form-control-lg form-control-solid" type="text" placeholder="" name="nama" autocomplete="off" />
+                    </div>
+                    <!--end::Input group-->
+                    <!--begin::Input group-->
+                    <div class="fv-row mb-7">
+                        <label class="form-label fw-bolder text-dark fs-6">Alamat</label>
+                        <input class="form-control form-control-lg form-control-solid" type="text" placeholder="" name="alamat" autocomplete="off" />
+                    </div>
+                    <div class="fv-row mb-7">
                         <label class="form-label fw-bolder text-dark fs-6">Email</label>
                         <input class="form-control form-control-lg form-control-solid" type="email" placeholder="" name="email" autocomplete="off" />
+                    </div>
+                    <div class="fv-row mb-7">
+                        <label class="form-label fw-bolder text-dark fs-6">No.HP</label>
+                        <input class="form-control form-control-lg form-control-solid" type="tel" placeholder="" name="nomor_hp" autocomplete="off" />
+                    </div>
+                    <div class="fv-row mb-7">
+                        <label class="form-label fw-bolder text-dark fs-6">Role</label>
+                        <input class="form-control form-control-lg form-control-solid" type="text" placeholder="" name="role" autocomplete="off" />
                     </div>
                     <!--end::Input group-->
                     <!--begin::Input group-->
@@ -67,7 +85,7 @@
 
                     <!--begin::Actions-->
                     <div class="text-center">
-                        <button type="button" id="kt_sign_up_submit" class="btn btn-lg btn-primary">
+                        <button type="button" id="tombol_register" class="btn btn-lg btn-primary" onclick="auth('#tombol_register','#form_register','register','Sign Up');">
                             <span class="indicator-label">Submit</span>
                             <span class="indicator-progress">Please wait...
                             <span class="spinner-border spinner-border-sm align-middle ms-2"></span></span>

@@ -14,10 +14,17 @@
 
                     <!-- Top Search
                     ============================================= -->
+                    @if(session()->has('user'))
+                    <div id="top-account">
+                        <a href="#" >Username</a>
+                        <a href="{{route('logout')}}" >Logout</a>
+                    </div><!-- #top-search end -->
+                    @else
                     <div id="top-account">
                         <a href="{{route('signin')}}" >Login</a>
                         <a href="{{route('signup')}}" >Register</a>
                     </div><!-- #top-search end -->
+                    @endif
                 </div>
 
                 <!-- Primary Navigation
@@ -26,9 +33,6 @@
 
                     <ul class="menu-container">
                         <li class="menu-item"><a class="menu-link {{ request()->is('home') ? 'active' : '' }}" href="{{route('home')}}" href="#"><div>Home</div></a></li>
-                        <li class="menu-item"><a class="menu-link {{ request()->is('hotel') ? 'active' : '' }}" href="{{route('hotel')}}" href="#"><div>Hotel</div></a></li>
-                        <li class="menu-item"><a class="menu-link {{ request()->is('pesawat') ? 'active' : '' }}" href="{{route('pesawat')}}" href="#"><div>Pesawat</div></a></li>
-                        <li class="menu-item"><a class="menu-link {{ request()->is('tiket') ? 'active' : '' }}" href="{{route('tiket')}}" href="#"><div>Tiket</div></a></li>
                     </ul>
 
                 </nav><!-- #primary-menu end -->

@@ -13,21 +13,9 @@ class HomeController extends Controller
     {
         return view('page.office.dashboard.main');
     }
-    public function pesawat(Request $request)
-    {
-        return view('page.office.pesawat.main');
-    }
-    public function hotel(Request $request)
-    {
-        return view('page.office.hotel.main');
-    }
-    public function destinasi(Request $request)
-    {
-        return view('page.office.destinasi.main');
-    }
     public function tiket(Request $request)
     {
-        return view('page.office.tiket.main');
+        return view('page.office.product.main');
     }
     // public function show(Request $request, User $user)
     // {

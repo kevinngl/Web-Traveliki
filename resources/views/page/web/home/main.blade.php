@@ -22,56 +22,20 @@
 					<!-- Shop
 					============================================= -->
 					<div id="shop" class="shop row grid-container gutter-30" data-layout="fitRows">
-
+						@foreach($product as $item)
 						<div class="product col-lg-3 col-md-4 col-sm-6 col-12">
 							<div class="grid-inner">
 								<div class="product-image">
-									<a href="#"><img src="{{asset('assets/shop/hotel/1.jpg')}}" alt="Hotel "></a>
-									<div class="sale-flash badge bg-secondary p-2">Out of Stock</div>
+									<a href="#"><img src="http://192.168.137.1:8081/images/{{$item->gambar}}" alt="pesawat "></a>
+									<div class="sale-flash badge bg-secondary p-2">{{$item->jenis_tiket}}</div>
 								</div>
 								<div class="product-desc">
-									<div class="product-title"><h3><a href="{{route('detail')}}">Hotel Royale Bandung</a></h3></div>
-									<div class="product-price"><ins>Rp 855.000</ins></div>
+									<div class="product-title"><h3><a href="{{route('detail',$item->id)}}">{{$item->nama}} / Destinasi : {{$item->destinasi}}</a></h3></div>
+									<div class="product-price"><ins>Rp {{$item->harga}}</ins></div>
 								</div>
 							</div>
 						</div>
-						<div class="product col-lg-3 col-md-4 col-sm-6 col-12">
-							<div class="grid-inner">
-								<div class="product-image">
-									<a href="#"><img src="{{asset('assets/shop/hotel/1.jpg')}}" alt="Hotel "></a>
-									<div class="sale-flash badge bg-secondary p-2">Out of Stock</div>
-								</div>
-								<div class="product-desc">
-									<div class="product-title"><h3><a href="{{route('detail')}}">Hotel Royale Bandung</a></h3></div>
-									<div class="product-price"><ins>Rp 855.000</ins></div>
-								</div>
-							</div>
-						</div>
-						<div class="product col-lg-3 col-md-4 col-sm-6 col-12">
-							<div class="grid-inner">
-								<div class="product-image">
-									<a href="#"><img src="{{asset('assets/shop/hotel/1.jpg')}}" alt="Hotel "></a>
-									<div class="sale-flash badge bg-secondary p-2">Out of Stock</div>
-								</div>
-								<div class="product-desc">
-									<div class="product-title"><h3><a href="#">Hotel Royale Bandung</a></h3></div>
-									<div class="product-price"><ins>Rp 855.000</ins></div>
-								</div>
-							</div>
-						</div>
-						<div class="product col-lg-3 col-md-4 col-sm-6 col-12">
-							<div class="grid-inner">
-								<div class="product-image">
-									<a href="#"><img src="{{asset('assets/shop/hotel/1.jpg')}}" alt="Hotel "></a>
-									<div class="sale-flash badge bg-secondary p-2">Out of Stock</div>
-								</div>
-								<div class="product-desc">
-									<div class="product-title"><h3><a href="#">Hotel Royale Bandung</a></h3></div>
-									<div class="product-price"><ins>Rp 855.000</ins></div>
-								</div>
-							</div>
-						</div>
-
+						@endforeach
 					</div><!-- #shop end -->
 
 				</div>
